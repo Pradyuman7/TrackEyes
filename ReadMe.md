@@ -1,5 +1,6 @@
 # TrackEyes
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-TrackEyes-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/7446)
 
 A simple :eyes: tracking and :boy: detection android app, made for learning purposes using Google vision api.
 
