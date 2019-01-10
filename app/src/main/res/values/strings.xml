@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Track Eyes</string>
+    <string name="face_not_found">Status: Face not detected</string>
+</resources>
