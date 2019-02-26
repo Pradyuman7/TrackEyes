@@ -3,11 +3,12 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-TrackEyes-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/7446)
 
 <p align="center">
-  <img width="250" height="250" src="https://user-images.githubusercontent.com/41565823/52990799-2c5b2980-340a-11e9-8e74-d530ee593c01.gif">
+  <img width="250" height="250" src="https://user-images.githubusercontent.com/41565823/53384554-9419f300-397b-11e9-84e6-c4e01c293ea9.gif">
 </p>
 <p align="center">
 A simple :eyes: tracking and :boy: detection android app, made using Google vision api.
 </p>
+
 
 ## GIF
 <p align="left">
