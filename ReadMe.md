@@ -2,6 +2,8 @@
 [![TrackEyes](https://img.shields.io/badge/Pradyuman7-TrackEyes-red.svg?style=flat)](https://github.com/Pradyuman7/TrackEyes)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-TrackEyes-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/7446)
 
+**You can add such functionality to your VideoView using [this simple library](https://github.com/Pradyuman7/LookAtMe).**
+
 <p align="center">
   <img width="250" height="250" src="https://user-images.githubusercontent.com/41565823/53384554-9419f300-397b-11e9-84e6-c4e01c293ea9.gif">
 </p>
