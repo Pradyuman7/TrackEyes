@@ -1,5 +1,6 @@
 # TrackEyes
-[![TrackEyes](https://img.shields.io/badge/Pradyuman7-TrackEyes-red.svg?style=flat)](https://github.com/Pradyuman7/TrackEyes)
+[![TrackEyes](https://img.shields.io/badge/Pradyuman7-TrackEyes-purple.svg?style=flat)](https://github.com/Pradyuman7/TrackEyes)
+[![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-TrackEyes-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/7446)
 
 **You can add such functionality to your VideoView using [this simple library](https://github.com/Pradyuman7/LookAtMe).**
